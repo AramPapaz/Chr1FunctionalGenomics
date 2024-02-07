@@ -1,6 +1,6 @@
 # Chr1FunctionalGenomics
 
-Variant Analysis (__GATK__) of RNA seq data based on Human Chr1 reference
+Variant Analysis (__GATK__) of RNA seq data based on Human Chr1 as reference
 
 * Quality Control (__fastqc__).
 
